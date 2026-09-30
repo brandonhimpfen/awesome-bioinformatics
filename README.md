@@ -55,6 +55,7 @@ Tools for analyzing, visualizing, and interpreting biological data.
 - [Galaxy](https://usegalaxy.org/) — Web-based platform for accessible bioinformatics analysis.
 - [IGV (Integrative Genomics Viewer)](https://software.broadinstitute.org/software/igv/) — Visualization tool for genomic data.
 - [Plotly](https://plotly.com/) — Data visualization library used in bioinformatics workflows.
+- [VigyanLLM](https://www.vigyanllm.in/) — Web-based bioinformatics platform with primer design, BLAST, multiple sequence alignment, and molecular docking tools.
 
 ## Databases & Repositories
 
